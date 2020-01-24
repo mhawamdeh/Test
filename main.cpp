@@ -9,7 +9,7 @@ int sumTestSwitch(int x, int y)
 
 
 int main() {
-cout << sumTestSwitch(4,3);
+cout << sumTestSwitch(6,8);
 
     return 0;
 }
